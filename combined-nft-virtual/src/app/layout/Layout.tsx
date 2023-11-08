@@ -2,6 +2,7 @@ import { ReactNode } from "react";
 import styles from "@/app/styles/Home.module.css";
 import { ConnectWallet } from "@thirdweb-dev/react";
 import CardLink from "@/components/CardLink";
+import Navbar from "@/components/Navbar";
 
 interface LayoutProps {
   children: ReactNode;

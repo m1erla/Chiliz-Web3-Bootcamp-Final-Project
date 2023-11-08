@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="flex justify-between items-center h-full">
             <ul className="hidden md:flex gap-x-6 text-white">
               <li>
-                <Link href="/layout">
+                <Link href="/aboutUs">
                   <p>About Us</p>
                 </Link>
               </li>
@@ -29,7 +29,7 @@ const Navbar = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/wallet">
+                <Link href="/indexChiliz">
                   <p>Marketplace Moralis</p>
                 </Link>
               </li>

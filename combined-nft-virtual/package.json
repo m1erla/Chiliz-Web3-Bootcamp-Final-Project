@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
     "@moralisweb3/common-evm-utils": "^2.23.2",
     "@moralisweb3/next": "^2.23.2",
     "@thirdweb-dev/react": "^4.1.1",
@@ -19,6 +20,7 @@
     "react": "^18",
     "react-countdown": "^2.3.5",
     "react-dom": "^18",
+    "react-icons": "^4.11.0",
     "viem": "^1.18.6",
     "wagmi": "^1.4.5"
   },
