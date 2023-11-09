@@ -1,7 +1,7 @@
 # Chiliz-Web3-Bootcamp-Final-Project
-
+## NFT Thirdweb3
 ![nft](combined-nft-virtual/public/wallet.png)
-
+## Marketplace Moralis
 ![marketplacev3](combined-nft-virtual/public/indexchiliz.png)
 
 ![info](combined-nft-virtual/public/info.png)
